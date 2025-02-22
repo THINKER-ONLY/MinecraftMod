@@ -1,4 +1,7 @@
 {
+  "itemGroup.firstmod.eatable_god": "可食用神明",
   "item.firstmod.god_heart": "神明的心脏",
-  "block.firstmod.xirang": "息壤"
+  "block.firstmod.xirang": "息壤",
+  "item.firstmod.heavy_god_heart": "聚合神明心脏",
+  "item.firstmod.god_bone": "神明的骨头"
 }

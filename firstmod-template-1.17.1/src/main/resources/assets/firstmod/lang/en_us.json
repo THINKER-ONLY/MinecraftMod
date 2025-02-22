@@ -1,4 +1,7 @@
 {
-  "item.firstmod.god_heart": "Gods_heart",
-  "block.firstmod.xirang": "Xirang"
+  "itemGroup.firstmod.eatable_god": "Eatable_God",
+  "item.firstmod.god_heart": "Gods_Heart",
+  "block.firstmod.xirang": "Xirang",
+  "item.firstmod.heavy_god_heart": "Heavy_God_Heart",
+  "item.firstmod.god_bone": "God_Bone"
 }

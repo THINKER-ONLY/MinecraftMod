@@ -1,6 +1,7 @@
 package com.lzy.firstmod;
 
 import com.lzy.firstmod.block.ModBlocks;
+import com.lzy.firstmod.item.ModItemGroup;
 import com.lzy.firstmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -24,6 +25,6 @@ public class FirstMod implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
-
+		ModItemGroup.registerModItemGroup();
 	}
 }
